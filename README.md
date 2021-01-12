@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm [Shaurya Srivastava](https://shauryas.github.io)!
+## Hi there! 👋 I'm [Shaurya Srivastava](https://shauryas.github.io)!
 
 <a href="https://www.linkedin.com/in/shauryas481/">
   <img align="left" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -32,7 +32,7 @@
 
 <br />
  
-<div><p>My profile overview: </p></div>
+### My profile overview:
 
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=ShauryaS&show_icons=true&count_private=true&theme=react" />
