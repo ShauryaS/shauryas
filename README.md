@@ -35,8 +35,9 @@
 <div><p>My profile overview: </p></div>
 
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShauryaS&show_icons=true&count_private=true&theme=react" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaS&layout=compact&langs_count=8)" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShauryaS&show_icons=true&count_private=true&theme=react" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaS&langs_count=5)" />
 
 <br />
 
