@@ -25,10 +25,10 @@
 <br />
 
 - 🔭 I’m currently working on stealth personal projects.
-- 🌱 I’m currently learning blockchain.
+- 🌱 I’m currently learning security.
 - 📫 How to reach me: Message me on Twitter.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I travel a lot (when there's no pandemic).
+- ⚡ Fun fact: I enjoy traveling, going outdoors, gaming, cubing, and reading.
 
 <br />
  
