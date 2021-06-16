@@ -18,7 +18,7 @@
 
 <div>
   <p>
-    Hello! My name is Shaurya and I'm a Software Engineer at Microsoft. I graduated from the University of Maryland with B.S. in Computer Science and a Minor in Statistics. My past experiences include internships at <a href="https://www.servicenow.com/">ServiceNow</a> and <a href="https://www.microsoft.com/en-us/">Microsoft</a>. Currently, I work on the Microsoft Azure Data Lake Storage Gen2 cloud service.<br /><br />I am an Entrepreneur and Full Stack Software Engineer. Currently, I am working on some stealth projects utilizing Reactjs, Python, AWS, and more. Feel free to reach out if you are interested in knowing what they are! I want to continuously learn and expand my skillset so that I can continue to problem-solve. I am a fast learner and team player who is open to new opportunities and experiences.
+    Hello! My name is Shaurya and I'm a Software Engineer at <a href="https://www.microsoft.com/en-us/">Microsoft</a>. I graduated from the University of Maryland with B.S. in Computer Science and a Minor in Statistics. My past experiences include internships at <a href="https://www.servicenow.com/">ServiceNow</a> and <a href="https://www.smartqed.ai/">SmartQED</a>. Currently, I work on the Microsoft Azure Data Lake Storage Gen2 cloud service.<br /><br />I am an Entrepreneur and Full Stack Software Engineer. Currently, I am working on some stealth projects utilizing Reactjs, Python, AWS, and more. Feel free to reach out if you are interested in knowing what they are! I want to continuously learn and expand my skillset so that I can continue to problem-solve. I am a fast learner and team player who is open to new opportunities and experiences.
   </p>
 </div>
  
