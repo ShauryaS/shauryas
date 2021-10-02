@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/shauryas481/">
   <img align="left" alt="Shaurya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:shauryas@umd.edu">
-  <img align="left" alt="Shaurya's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <a href="https://www.instagram.com/shauryas481/">
   <img align="left" alt="Shaurya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -26,9 +23,9 @@
 
 - 🔭 I’m currently working on stealth personal projects.
 - 🌱 I’m currently learning NLP.
-- 📫 How to reach me: Message me on Twitter.
+- 📫 How to reach me: Feel free to message me on LinkedIn, Instagram, or Twitter.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I enjoy traveling, going outdoors, gaming, cubing, and reading.
+- ⚡ Fun fact: I enjoy traveling, going outdoors, gaming, cubing, and reading. I also write on medium, which can be found <a href="https://shauryasriv.medium.com">here</a>.
 
 <br />
  
