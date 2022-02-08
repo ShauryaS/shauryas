@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning NLP.
 - 📫 How to reach me: Feel free to message me on LinkedIn, Instagram, or Twitter.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I enjoy traveling, going outdoors, gaming, cubing, and reading. I also write on medium, which can be found <a href="https://shauryasriv.medium.com">here</a>.
+- ⚡ Fun fact: I enjoy traveling, going outdoors, gaming, cubing, and reading. I also write on medium, which can be found <a href="https://medium.shauryas.io">here</a>.
 
 <br />
  
